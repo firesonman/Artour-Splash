@@ -1,0 +1,25 @@
+.background{
+    background-image: url(../images/Background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: auto;
+    height: 30em;
+}
+
+.fs-4{
+    color: #FFEBBE;
+}
+
+.email{
+    max-width: 500px;
+}
+
+.mockup{
+    float: right;
+
+}
+
+.btn{
+    background-color: #FFEBBE;
+}
+
