@@ -16,6 +16,8 @@
 
 .mockup{
     float: right;
+    margin-right: 50px !important;
+    justify-content: end !important;
 
 }
 
